@@ -40,12 +40,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
+[![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monish-Palanikumar&count_private=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Monish's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Monish-Palanikumar&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Palanikumar&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
 <!-- [website]: https://personalwebsite -->
 [twitter]: https://twitter.com/monishpalani
