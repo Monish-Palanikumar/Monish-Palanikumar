@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Palanikumar&layout=compact&theme=github_dark&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-palanikumar&theme=github-dark&hide_border=true&fire=DD7A21" alt="monish-palanikumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-palanikumar&theme=github-dark&hide_border=true" alt="monish-palanikumar" /></p>
 
 <!-- [website]: https://personalwebsite -->
 [twitter]: https://twitter.com/monishpalani
