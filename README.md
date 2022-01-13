@@ -1,7 +1,10 @@
-## Hi there, I'm Monish Palanikumar 👋 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### I'm a Webapp Developer, and Cybersecurity enthusiast!!
+<h1 align="center">Hi there, I'm Monish Palanikumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I'm a passionate Full Stack Developer and Cybersecurity Enthusiast from India.</h3>
+<br />
 
+### 🙋‍♂️ About Me
 - 🌱 I’m currently working on full stack development
 - 👯 I’m looking to collaborate with studious minds for any open source project
 - 🥅 2022 Goals: Contribute more to my personal and professional development
@@ -10,10 +13,9 @@
 ### Connect with me
 
 <!-- [<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Monish Palanikumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Monish Palanikumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
+<!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 ### Languages, Frameworks and Tools
 <p align="left"> 
@@ -45,11 +47,17 @@
 ---
 
 ### :zap: GitHub Stats
-[![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monish-Palanikumar&count_private=true&show_icons=true&theme=github_dark&hide_border=true&&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Palanikumar&layout=compact&theme=github_dark&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Monish Palanikumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Monish-Palanikumar&count_private=true&show_icons=true&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Monish Palanikumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Palanikumar&layout=compact&theme=github_dark&hide_border=true&langs_count=7" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-palanikumar&theme=github-dark&hide_border=true" alt="monish-palanikumar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-palanikumar&theme=github-dark&hide_border=true" alt="monish-palanikumar" /></p>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Monish Palanikumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Monish-Palanikumar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+### ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Monish-Palanikumar"></a>
+<a href="https://github.com/Monish-Palanikumar?tab=followers"><img src="https://img.shields.io/github/followers/Monish-Palanikumar?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!-- [website]: https://personalwebsite -->
 [twitter]: https://twitter.com/monishpalani
