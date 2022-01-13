@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Contribute more to my personal and professional development
 - ⚡ Fun fact: I love to cycle and listen to music
 
-### Connect with me:
+### Connect with me
 
 <!-- [<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Monish Palanikumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -51,6 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Palanikumar&layout=compact&theme=github_dark&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
+### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
