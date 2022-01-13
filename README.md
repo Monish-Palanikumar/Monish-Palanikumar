@@ -33,13 +33,17 @@
 <br />
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 - [Active Directory 101](https://monishpalanikumar.medium.com/active-directory-101-a18b216804e5)
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Monish's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Monish's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Monish-Palanikumar&show_icons=true&hide_border=true" />
 
 </details>
 
