@@ -10,6 +10,11 @@
 - 🥅 2024 Goals: Contribute more to my personal and professional development
 - ⚡ Fun fact: I love to cycle and listen to music
 
+### Work Experience
+- HCL Technologies [2021 - Present]
+    - Senior Software Engineer - HCL Technologies, Guadalajara, Mexico [2023 - Present]
+    - Software Engineer - HCL Technologies, Chennai, India [2021-2023]
+
 ### Connect with me
 
 <!-- [<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -49,8 +54,6 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Monish Palanikumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Palanikumar&layout=compact&theme=github_dark&hide_border=true&langs_count=7" /></a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-palanikumar&theme=github-dark&hide_border=true" alt="monish-palanikumar" /></p>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Monish Palanikumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Monish-Palanikumar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Monish-Palanikumar"></a>
