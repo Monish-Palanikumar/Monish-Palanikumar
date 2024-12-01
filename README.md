@@ -11,9 +11,11 @@
 - ⚡ Fun fact: I love to cycle and listen to music
 
 ### Work Experience
-- HCL Technologies [2021 - Present]
-    - Senior Software Engineer - HCL Technologies, Guadalajara, Mexico [2023 - Present]
-    - Software Engineer - HCL Technologies, Chennai, India [2021-2023]
+- HCL Technologies [August 2021 - November 2024]
+    - Senior Software Engineer - HCL Technologies, Guadalajara, Mexico [August 2023 - November 2024]
+    - Software Engineer - HCL Technologies, Chennai, India [August 2021- August 2023]
+ - HTC Global [November 2024 - Present]
+    - L2 Engineer - HTC Global, Chennai, India [November 2024 - Present]
 
 ### Connect with me
 
