@@ -7,7 +7,7 @@
 ### 🙋‍♂️ About Me
 - 🌱 I’m currently working on full stack development
 - 👯 I’m looking to collaborate with studious minds for any open source project
-- 🥅 2024 Goals: Contribute more to my personal and professional development
+- 🥅 2025 Goals: Contribute more to my personal and professional development
 - ⚡ Fun fact: I love to cycle and listen to music
 
 ### Work Experience
